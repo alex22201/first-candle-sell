@@ -1,0 +1,116 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+VolumeIcon.icns
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+*.eggs/
+dist/
+build/
+*.log
+*.sqlite3
+*.db
+*.dmg
+*.vscode/
+*.env
+*.venv
+env/
+venv/
+ENV/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.pyo
+*.pyd
+.idea/*.sublime-workspace
+.idea/.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Pyenv
+.python-version
+
+# Cython debug symbols
+cython_debug/
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.spec
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media
+staticfiles
+
+# Flask
+instance/
+.venv
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# local
+*.local
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Archive files
+*.tar.gz
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
